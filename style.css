@@ -4,7 +4,8 @@ body {
     font-family: "Crimson Text", "Georgia";
 }
 
-h1, h2 {
+h1,
+h2 {
     text-align: center;
     font-family: "Oswald", "Helvetica Neue";
     color: #2884C3;
@@ -51,4 +52,8 @@ code {
 
 .blue {
     color: #2884C3;
+}
+
+.helpful-source {
+    padding: 50px;
 }
